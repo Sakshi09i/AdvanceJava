@@ -2,7 +2,7 @@
 interface Add{
     int addition(int a, int b);
 }
-public class Test{
+public class Lambda{
     
     public static void main(String[] args){
         
